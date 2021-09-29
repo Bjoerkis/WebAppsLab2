@@ -1,0 +1,48 @@
+.nav-bar {
+    background: linear-gradient(-90deg, #5C4974, #3A662D);
+    height: 60px;
+    margin-bottom: 15px;
+}
+body{
+    background-image: url("/img/dumbbellpic.webp");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+form{
+    color: #3A662D;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+
+}
+ul{
+    color: #5C4974;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+h3{
+    color: #3A662D;
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+}
+button{
+    background: linear-gradient(-90deg, #5C4974, #3A662D);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+input{
+    font-size: max(16px,1em);
+    font-family: inherit;
+    padding: 4px 8px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 4px;
+}
+
